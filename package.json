@@ -1,7 +1,8 @@
 {
-  "name": "wechat-js-sdk-official",
+  "name": "weixin-js-sdk-official",
   "version": "1.4.0",
   "description": "微信WEIXIN-JS-SDK官方包",
+  "keywords":["微信JS","SDK","官方包","wechat-js-sdk","WEIXIN-JS-SDK"],
   "main": "index.js",
   "repository": {
     "type": "git",

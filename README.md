@@ -7,10 +7,13 @@
 
 ### 安装
 ```
-npm i wechat-js-sdk-official
+npm i weixin-js-sdk-official
 ```
-
+### 版本安装
+```
+npm i weixin-js-sdk-official@1.4.0
+```
 ### 使用
 ```
-const wx = require('wechat-js-sdk-official');
+const wx = require('weixin-js-sdk-official');
 ```
