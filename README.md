@@ -12,6 +12,8 @@ npm i weixin-js-sdk-official
 ### 版本安装
 ```
 npm i weixin-js-sdk-official@1.4.0
+
+npm i weixin-js-sdk-official@1.5.0
 ```
 ### 使用
 ```
