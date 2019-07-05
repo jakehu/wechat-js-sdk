@@ -1,6 +1,6 @@
 {
   "name": "weixin-js-sdk-official",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "微信WEIXIN-JS-SDK官方包",
   "keywords":["微信JS","SDK","官方包","wechat-js-sdk","WEIXIN-JS-SDK"],
   "main": "index.js",
