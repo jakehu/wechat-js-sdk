@@ -1,5 +1,5 @@
 {
-  "name": "wechat-js-sdk-1.4.0",
+  "name": "wechat-js-sdk-official",
   "version": "1.4.0",
   "description": "微信WEIXIN-JS-SDK官方包",
   "main": "index.js",
@@ -7,6 +7,7 @@
     "type": "git",
     "url": "https://github.com/jakehu/wechat-js-sdk.git"
   },
+  "license": "MIT",
   "author": "jakehu"
 }
 
